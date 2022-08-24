@@ -1,0 +1,15 @@
+.divs{
+    display: -webkit-inline-flex;
+    
+    margin-left: 0px;
+    justify-content: space-around;
+    height: auto;
+    width: 100%;
+
+}
+.Fs{
+    display: flex;
+    margin: 10px;
+    
+    
+}

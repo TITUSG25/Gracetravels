@@ -1,0 +1,19 @@
+@media screen {
+    .foot{
+        display: flex;
+        justify-content: center;
+        padding: 10px;
+        background-image: linear-gradient(to right,#e60000,#e60000);
+        height: 20px;
+    }
+    .footcont{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 5px;
+        font-size: 15px;
+        color: white;
+        font-style: italic;
+        padding: 10px;
+    }
+}
